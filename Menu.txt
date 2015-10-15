@@ -1,0 +1,12 @@
+******************************
+	     Menu:
+******************************
+a: Add a name, phone number, and email
+p: Print Entire List
+s: Search for a name
+e: Search for an email address
+d: Delete an entry
+w: Write to a file
+r: Restore a saved database
+q: quit program
+******************************
